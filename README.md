@@ -18,8 +18,6 @@ A set of code and usage examples of the superset of javascript, typescript.
         <li><a href="https://youtu.be/lCemyQeSCV8"><i>Matheus Battisti - Hora de Codar</i></a><br/></li>
         <li><a href="https://youtu.be/rCKvrhLRFLE"><i>DevDojo</i></a><br/></li>
     </ul>
-    
-    <a href="">resource 2</a>
 </details>
 
 
