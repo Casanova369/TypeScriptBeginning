@@ -3,7 +3,7 @@
 A set of code and usage examples of the superset of javascript, typescript.
 
 
-#### Download
+#### Download and Configure
 - [x] `node.js Package Manager` 
 - [x] `npm install -g typescrip`
 - [x] `Checking node.js intallation: node -v`
