@@ -1,6 +1,6 @@
 # Typescript Beginning
 
-A set of code and usage examples of the superset of javascript, typescript.
+<i>A set of code and usage examples of the superset of javascript, typescript.</i>
 
 
 #### Download and Configure
